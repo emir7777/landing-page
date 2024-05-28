@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    
+}
+.header {
+    background: darkblue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+
+}
+.box1{
+    background: darkblue;
+    padding: 80px;
+    color: white;
+    display: flex;
+    gap: 8px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.SignUp1{
+    align-self: flex-start;
+}
+.img1{
+    width: 400px;
+    height: 200px;
+}
+.box2{
+    background: lightgray;
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+.box3{
+    background: slategray;
+    padding: 80px;
+    text-align: center;
+}
+.cite{
+    text-align: end;
+}
+.box4{
+    background: white;
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+}
+.container3{
+    background-color: blue;
+}
+.footer{
+    background-color: darkblue;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    
+}
